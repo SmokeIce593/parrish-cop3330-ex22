@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Assignment 21 Solution
+ *  UCF COP3330 Fall 2021 Assignment 22 Solution
  *  Copyright 2021 Cameron Parrish
  */
 
@@ -31,7 +31,7 @@ public class Largestnumber {
                 System.out.printf("The largest number is %d.", second);
             }
 
-            else if (third > first && third > second){
+            else{
                 System.out.printf("The largest number is %d.", third);
             }
         }
